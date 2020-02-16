@@ -1,0 +1,12 @@
+body{background-image: url('untitled-3.jpg'); background-repeat: no-repeat;background-size: cover; }
+
+form {margin-left: 70%; margin-right: auto; width:20%;}
+
+div div {margin-left: auto; margin-right: auto; width:100px;
+ display: block; padding:5px;}
+
+ fieldset {border-width:10px}
+ legend{margin-left: 10%;font-size: 60px;margin-left: 50px}
+
+ .image {border-radius: 10% ; margin-left:75%; margin-right: auto; width:18%;margin-top:5%;
+   margin-bottom: auto;}

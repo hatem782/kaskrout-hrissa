@@ -1,0 +1,21 @@
+body{background-image: url('backggg.jpg'); background-repeat: no-repeat;background-size: cover;}
+
+
+.a{font-size: 50px; font-family: sans-serif;color:rgb(158, 19, 47) ; margin-left:30px}
+
+fieldset {border-width:10px}
+legend{margin-left: 10%;font-size: 60px;margin-left: 50px}
+
+form {margin-left: 60%; width:30%;}
+
+div div {margin-left:auto; margin-right:auto; width:440px;
+ display: block; padding:40px;}
+
+ p{font-size: 50px}
+
+
+.bb{margin-left: auto; margin-right: auto; width:100px;
+ display: block; padding:5px;}
+
+ .image {border-radius: 10% ; margin-left:80%; margin-right: auto; width:13%;margin-top:3%;
+   margin-bottom: auto;}
